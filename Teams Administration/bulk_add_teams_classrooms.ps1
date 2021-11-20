@@ -2,7 +2,7 @@
 .AUTHOR
 	Ethan Harriman (eharriman@spiritofmath.com)
 .LOCATION
-	SMS-General/Teams Administration
+	Sys-Admin-Repo/Teams Administration
 .Authentication
 	Teams Administrator
 .SYNOPSIS
